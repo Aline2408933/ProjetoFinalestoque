@@ -1,0 +1,4 @@
+estoque\MainApp.class
+estoque\Produto.class
+estoque\DBConnection.class
+estoque\ProdutoDAO.class
